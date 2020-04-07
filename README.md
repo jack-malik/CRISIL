@@ -16,8 +16,10 @@ SOLUTION:
 
 STEP #1/. Create list containing a lists, each of which is a possible combination
                of any elements in the user input
+               
 STEP #2/. Create a new list where each element is the sum of all elements in each
                element of the list created in step 1/.
+               
 STEP #3/. Create a set containing elements of both list above
 
 STEP #4/. Get minimum and maximum value of the set created in Step #3
